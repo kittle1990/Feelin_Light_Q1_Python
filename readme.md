@@ -92,7 +92,7 @@ robot.whole_lamp_color(0, 0, 255)
    4. Parameter 4: Blue, value range: 0-255
 
    ```python
-   robot.single_lamp(0, 0, 0, 255)
+   robot.single_set(0, 0, 0, 255)
    ```
 
 6. Illuminate the entire circle light
